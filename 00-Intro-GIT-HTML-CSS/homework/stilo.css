@@ -1,0 +1,30 @@
+body{background-image: url(https://p4.wallpaperbetter.com/wallpaper/359/995/787/temperature-fire-coal-corruption-wallpaper-preview.jpg);}
+
+h1{color: #ccd0ff;
+    background-color: #01061a;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 0 #353535;
+    text-shadow: 2px 2px 7px #000000;
+
+ }
+ h3{color: aliceblue;
+    text-align: center;}
+
+ h4{color: aliceblue;
+    text-align: center;}
+
+.divClass{color: aliceblue;
+text-align: center;}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    color: aliceblue;
+    text-align: center;}
+
+img{
+width: 400px;
+height: 200px;
+}
